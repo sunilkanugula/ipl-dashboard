@@ -1,0 +1,21 @@
+.image-logo {
+  height: 70px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+.each-team-card {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  height: 100px;
+}
+.link-items {
+  text-decoration: none;
+}
